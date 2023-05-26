@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev qy-web",
+    "docs:build": "vitepress build qy-web",
+    "docs:preview": "vitepress preview qy-web"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.1"
+  }
+}
